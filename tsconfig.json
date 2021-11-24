@@ -16,6 +16,7 @@
         "noEmitOnError": true,
         "forceConsistentCasingInFileNames": true,
         "moduleResolution": "node",
+        "resolveJsonModule": true,
         "suppressImplicitAnyIndexErrors": true,
         "lib": ["es6", "dom"]
     },
